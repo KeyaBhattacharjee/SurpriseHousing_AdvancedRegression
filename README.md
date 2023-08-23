@@ -92,3 +92,5 @@ How can you make sure that a model is robust and generalisable? What are the imp
 14. Negative sign in the coefficient signifies negative correlation between the predictor and target variable.
 
 15. Predicted value of SalePrice is tranformed into its original scale by performing antilog.
+
+16. The houses should be bought When the market value of the property is lower than the Predicted Sale Price.
